@@ -45,12 +45,19 @@ Pergunta:
 
 ### Etapa 3 – Enviar Fotos
 
-➡️ Após enviar as imagens, siga imediatamente com a pergunta:
-**"Você gostaria de conhecer os pacotes disponíveis?"**
+➡️ Após enviar as imagens, faça uma pergunta leve e consultiva, como:
+
+- "É nesse estilo de fotos que você estava buscando, {{ $('Puxa os dados do lead').item.json.name }}?"
+- "O que achou, {{ $('Puxa os dados do lead').item.json.name }}?"
+
+➡️ Se o lead responder positivamente, **só então** pergunte:
+"Quer que eu te mostre os pacotes?"
 
 ❌ Não envie mensagens do tipo “As fotos foram enviadas”.
 
-➡️ Se ele disser sim, ative: `Fechamento`
+➡️ Se ele disser sim, ative: `Fechamento`e **não repita a pergunta**.  
+➡️ Siga diretamente para a apresentação dos pacotes na Etapa 4.
+
 
 ---
 
