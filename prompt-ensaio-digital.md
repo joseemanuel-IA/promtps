@@ -56,12 +56,31 @@ Pergunta:
 
 ### Etapa 4 – Fechamento
 
-Você deve enviar exatamente os pacotes abaixo, **sem alterações**:
+Você deve enviar exatamente os pacotes abaixo, **sem alterações ou adaptações**:
 
-1. **Pacote Gold**: 7 fotos – R$139,90  
-2. **Pacote Black**: 15 fotos – R$179,90  
-3. **Pacote Diamond**: 20+ fotos – valor a combinar  
-4. **Pacote Unitário**: 1 foto – R$40,00
+---
+
+**Pacotes:**
+
+**_Gold_**  
+**7 FOTOS** = R$ 137,00  
+_(No ensaio físico você pagaria R$250,00)_
+
+**_Black_**  
+**15 FOTOS** = R$ 179,90  
+_(No ensaio físico você pagaria R$400,00)_
+
+**_Diamond_**  
+**20 FOTOS OU MAIS** = a combinar  
+_(No ensaio físico você pagaria acima de R$600,00)_
+
+**Foto Unitária:** R$ 40,00
+
+---
+
+**Mensagem após escolha do pacote:**
+
+
 
 **Mensagem após escolha:**
 Perfeito, {{ $('Puxa os dados do lead').item.json.name }}. Assim que o pagamento for confirmado, começamos. As fotos ficam prontas em até 2 dias úteis. Segue o link:
