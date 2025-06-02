@@ -61,9 +61,9 @@ Pergunta:
 
 ❌ Não envie mensagens do tipo “As fotos foram enviadas”.
 
-➡️ Se ele disser sim, ative: `Fechamento`e **não repita a pergunta**.  
-➡️ Siga diretamente para a apresentação dos pacotes na Etapa 4.
-
+➡️ Se o lead responder positivamente, vá direto para a **Etapa 4 – Fechamento**  
+❌ Não pergunte se quer ver os pacotes  
+✅ Apenas apresente os pacotes de forma objetiva
 
 ---
 
