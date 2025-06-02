@@ -69,7 +69,7 @@ Pergunta:
 
 ### Etapa 4 – Fechamento
 
-Você deve enviar exatamente os pacotes abaixo, **sem alterações ou adaptações**:
+Você deve enviar exatamente os pacotes abaixo, pode enviar em apenas uma única mensagem **sem alterações ou adaptações**:
 
 ---
 
