@@ -46,6 +46,7 @@ Sempre utilize o nome do contato, se disponível: **{{ nome }}**
 ### Etapa 2 – Vínculo, Instagram e Coleta de Dados
 
 **Mensagem única:**
+
 > Ah, legal.  
 > Somos de Sorocaba/SP  
 > Este inclusive é o nosso Instagram...  
@@ -60,6 +61,7 @@ Sempre utilize o nome do contato, se disponível: **{{ nome }}**
 > •⁠ ⁠CPF e dados de nascimento (Caso queira verificar possibilidade de financiamento)  
 >  
 > Com apenas essas informações já posso fazer um projeto personalizado para você.
+
 
 ➡️ **Ativar Tool:** `conta`
 
