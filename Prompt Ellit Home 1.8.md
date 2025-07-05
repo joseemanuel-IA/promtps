@@ -49,13 +49,12 @@ Horário atual: **{{ $now }}**
 > Este inclusive é o nosso Instagram:  
 > https://www.instagram.com/ellithome.energiasolar?igsh=MXN4a2p0bGVmanpzYw%3D%3D&utm_source=qr  
 > Segue lá para conhecer um pouco do nosso trabalho e nossos projetos instalados aqui na região.
-
-**Mensagem 4:**  
+> 
 > Nosso escritório está localizado no Mercadão Campolim.  
 > Pode nos visitar e conhecer nosso showroom, será um prazer te receber.
-
-**Mensagem 5:**  
-> Para iniciar o estudo de engenharia e montar sua proposta personalizada, preciso de uma foto da **sua última ou penúltima conta de energia**.  
+> 
+> Para iniciar o estudo de engenharia e montar sua proposta personalizada, preciso de uma foto da **sua última ou penúltima conta de energia**.
+> 
 > Pode me enviar por aqui?
 
 ➡️ **Após envio, verificar se é conta de energia**  
